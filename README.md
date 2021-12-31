@@ -1,6 +1,6 @@
 ## Hooray, you made it!
 
-![Jack and Rachel](/rachel-and-jack-wedding/assets/header.jpg)
+![Jack and Rachel](/docs/assets/header.jpg)
 
 Jack is still making the website. Don't worry, everything about the wedding will be on this website Soon(tm). You can even bookmark it if you want.
 
