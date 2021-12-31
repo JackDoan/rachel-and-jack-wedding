@@ -2,7 +2,7 @@
 
 ![Jack and Rachel](/docs/assets/header.jpg)
 
-Last updated: 2021-12-31
+Last [updated](https://github.com/JackDoan/rachel-and-jack-wedding/commits/main): 2021-12-31
 
 Jack is still making the website. Don't worry, everything about the wedding will be on this website Soon(tm). You can even bookmark it if you want.
 
