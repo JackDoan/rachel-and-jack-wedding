@@ -24,9 +24,9 @@ That being said, we know some of you will still want to give us gifts no matter 
 
 ### Dress code
 The dress code is somewhere between “dressy casual” and “semi-formal” but no one knows what that means so:
-    • Suit and tie not necessary, but nicer than jeans
-    • Fancier than a first date but less fancy than prom 
-    • Something you could comfortably stand in for cocktail hour 
+- Suit and tie not necessary, but nicer than jeans
+- Fancier than a first date but less fancy than prom 
+- Something you could comfortably stand in for cocktail hour 
 
 
 We’re looking forward to seeing you there! 
