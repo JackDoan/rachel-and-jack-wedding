@@ -5,7 +5,7 @@
 Last [updated](https://github.com/JackDoan/rachel-and-jack-wedding/commits/main): 2022-03-06
 
 ### When is the wedding?
-April 2nd, 2022
+April 2nd, 2022, from 5:30pm to 11:00pm
 
 
 ### Hotel, transportation, and parking
